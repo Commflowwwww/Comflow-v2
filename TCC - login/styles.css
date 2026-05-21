@@ -155,7 +155,7 @@ body.dark .logo-dark {
 }
 
 body.dark .lang-btn {
-    background: #101629;
+    background: #1e293b;
     border-color: var(--border);
 }
 
@@ -204,7 +204,7 @@ body.dark .lang-btn {
 }
 
 body.dark .theme-toggle-btn {
-    background: #101629;
+    background: #1e293b;
     border-color: var(--border);
 }
 
